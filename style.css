@@ -1,0 +1,32 @@
+.nav-link.active {
+    color: white !important; 
+    background-color: #333!important; 
+}
+
+.nav-link.active:hover, .nav-link.active:focus {
+    color: white !important;
+    background-color: black !important; 
+
+
+.emphasize {
+    font-weight: bold;
+    font-style: italic;
+  }
+
+.features {
+    margin-top: 100px; /* Adjust value if needed */
+    background-color: yellow /* Or any contrasting color */
+}
+
+body {
+    margin-top: 80px; /* Adjust this based on your navbar height */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.extra-padding {
+    padding-top: 100px; /* Adjust this value as needed based on your navbar height */
+}
+
+
